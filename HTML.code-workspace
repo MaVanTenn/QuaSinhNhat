@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/HTML"
+		},
+		{
+			"path": "../../giaodien"
+		},
+		{
+			"path": "../../YTB-happyBirdthday-2021-p2/YTB-happyBirdthday-2021-p2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "YTB-happyBirdthday-2021-p2"
+	}
+}
